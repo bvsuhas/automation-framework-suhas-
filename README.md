@@ -1,6 +1,7 @@
 
 ![CI Status](https://github.com/bvsuhas/automation-framework-suhas-/actions/workflows/test.yml/badge.svg)
 
+📊 [View Allure Report](https://suhas.github.io/automation-framework-suhas/)
 # Automation Framework – Suhas
 
 ![CI](https://github.com/your-username/automation-framework-suhas/actions/workflows/behave.yml/badge.svg)
