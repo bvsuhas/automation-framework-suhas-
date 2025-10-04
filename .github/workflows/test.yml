@@ -25,3 +25,12 @@ jobs:
 
       - name: Run API tests (Pytest)
         run: pytest test/
+
+      - name: Run API tests (Pytest)
+        run: pytest test/ --html=report.html
+
+      - name: Upload API test report
+         uses: actions/upload-artifact@v3
+         with:
+           name: api-test-report
+           path: report.html 

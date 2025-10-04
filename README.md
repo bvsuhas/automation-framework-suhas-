@@ -1,5 +1,9 @@
+
+![CI Status](https://github.com/bvsuhas/automation-framework-suhas-/actions/workflows/test.yml/badge.svg)
+
 # automation-framework-suhas-
 Selenium + API + Cucumber BDD framework for web and backend testing 
+
 
 # Automation Framework - Selenium + API + Cucumber
 
