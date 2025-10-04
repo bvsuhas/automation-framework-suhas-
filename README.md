@@ -1,6 +1,13 @@
 
 ![CI Status](https://github.com/bvsuhas/automation-framework-suhas-/actions/workflows/test.yml/badge.svg)
 
+# Automation Framework – Suhas
+
+![CI](https://github.com/your-username/automation-framework-suhas/actions/workflows/behave.yml/badge.svg)
+
+This framework uses Behave + Selenium + Allure for login validation...
+
+:wq!
 # automation-framework-suhas-
 Selenium + API + Cucumber BDD framework for web and backend testing 
 
